@@ -3,7 +3,7 @@
   <h1>Rounak Kumar</h1>
 
   <!-- Micro-Animation Banner for Roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E65F3&center=true&vCenter=true&width=600&height=40&lines=MERN+Developer%3Bn8n+Automations%3BFull+Stack+Dev+%2B+AI+Automations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=059669&center=true&vCenter=true&width=600&height=40&lines=MERN+Developer%3Bn8n+Automations%3BFull+Stack+Dev+%2B+AI+Automations" alt="Typing SVG" />
 
   <p align="center">
     <b>Full Stack Developer (MERN) building web apps and AI automation workflows with n8n.</b>
@@ -14,10 +14,10 @@
   <!-- Large Contact Buttons -->
   <p align="center">
     <a href="https://www.linkedin.com/in/kumar-rounak-dev/">
-      <img src="https://img.shields.io/badge/LinkedIn-2E65F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:kumarrounak.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-2E65F3?style=for-the-badge" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-059669?style=for-the-badge" alt="Gmail" />
     </a>
   </p>
 
@@ -78,23 +78,31 @@
 
 ---
 
-### 📬 Connect With Me
+### 📬 Let's Connect
 
-<p align="center">
-  <b>Open to new projects, tech collaborations, and junior or internship opportunities. Let's talk!</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kumar-rounak-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-2E65F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kumarrounak.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2E65F3?style=for-the-badge" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/918178782184">
-    <img src="https://img.shields.io/badge/WhatsApp-2E65F3?style=for-the-badge" alt="WhatsApp" />
-  </a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=059669&center=true&vCenter=true&width=600&height=40&lines=Have+a+project+in+mind%3F%3BLooking+for+a+junior+MERN+developer%3F%3BLet%27s+build+something+together" alt="Let's connect" />
+
+  <p align="center">
+    <b>Open to junior and internship roles, project collaborations, and tech conversations.</b>
+    <br />
+    Pick whichever channel suits you best.
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kumar-rounak-dev/">
+      <img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:kumarrounak.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-059669?style=for-the-badge" alt="Gmail" />
+    </a>
+    <a href="https://wa.me/918178782184">
+      <img src="https://img.shields.io/badge/WhatsApp-059669?style=for-the-badge" alt="WhatsApp" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
