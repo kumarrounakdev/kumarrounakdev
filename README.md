@@ -3,7 +3,7 @@
   <h1>Rounak Kumar</h1>
 
   <!-- Micro-Animation Banner for Roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=059669&center=true&vCenter=true&width=600&height=40&lines=MERN+Developer%3Bn8n+Automations%3BFull+Stack+Dev+%2B+AI+Automations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1500&color=059669&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer+%28MERN%29%7C%3Bn8n+%26+AI+Workflow+Automation%7C%3BReact+%2B+Node.js+%2B+MongoDB%7C%3BCurrently+learning+Next.js+%26+TypeScript%7C" alt="Typing SVG" />
 
   <p align="center">
     <b>Full Stack Developer (MERN) building web apps and AI automation workflows with n8n.</b>
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=059669&center=true&vCenter=true&width=600&height=40&lines=Have+a+project+in+mind%3F%3BLooking+for+a+junior+MERN+developer%3F%3BLet%27s+build+something+together" alt="Let's connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=059669&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Have+a+project+in+mind%3F%7C%3BLooking+for+a+junior+MERN+developer%3F%7C%3BLet%27s+build+something+together%7C" alt="Let's connect" />
 
   <p align="center">
     <b>Open to junior and internship roles, project collaborations, and tech conversations.</b>
