@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey, I'm a Full Stack Developer 👋
 
-<!--
-**kumarrounakdev/kumarrounakdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern web applications with **React, Node.js, Express, and MongoDB** — with a growing focus on backend development and automation.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real, usable products and constantly improving how I write, structure, and ship code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Frontend**
+`React` · `JavaScript` · `HTML` · `CSS` · `Redux Toolkit`
+
+**Backend**
+`Node.js` · `Express.js` · `REST APIs` · `MongoDB`
+
+**Automation**
+`n8n` · `Webhooks` · `API Integrations`
+
+**Tools**
+`Git` · `GitHub` · `Postman` · `VS Code`
+
+### What I'm Building
+
+* 🚀 Full-stack MERN applications
+* ⚙️ Workflow automations using n8n
+* 🧩 Reusable React components and developer tools
+* 📚 Improving backend, APIs, databases, and system design
+
+### Featured Projects
+
+**Component Vault**
+A React-based developer tool for creating, organizing, searching, and managing reusable code snippets and components.
+
+**Roster HR Desk**
+A web application designed to simplify employee and HR management workflows.
+
+### Current Focus
+
+```text
+React → Node.js → Express → MongoDB → APIs → n8n
+```
+
+Learning by building real projects, breaking things, fixing them, and shipping them.
+
+### Let's Connect
+
+Open to opportunities in **Frontend, MERN, and Full Stack Development**.
+
+---
+
+**Build. Learn. Ship. Repeat.**
