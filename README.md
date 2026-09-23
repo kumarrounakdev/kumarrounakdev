@@ -3,7 +3,7 @@
   <h1>Rounak Kumar</h1>
 
   <!-- Micro-Animation Banner for Roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1500&color=059669&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer+%28MERN%29%7C%3Bn8n+%26+AI+Workflow+Automation%7C%3BReact+%2B+Node.js+%2B+MongoDB%7C%3BCurrently+learning+Next.js+%26+TypeScript%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1500&color=059669&center=true&vCenter=true&repeat=true&width=700&height=45&v=2&lines=Full+Stack+Developer+%28MERN%29%7C%3Bn8n+%26+AI+Workflow+Automation%7C%3BReact+%2B+Express+%2B+Node.js+%2B+MongoDB%7C" alt="Typing SVG" />
 
   <p align="center">
     <b>Full Stack Developer (MERN) building web apps and AI automation workflows with n8n.</b>
@@ -19,6 +19,9 @@
     <a href="mailto:kumarrounak.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-059669?style=for-the-badge" alt="Gmail" />
     </a>
+    <a href="https://wa.me/918178782184">
+      <img src="https://img.shields.io/badge/WhatsApp-059669?style=for-the-badge" alt="WhatsApp" />
+    </a>
   </p>
 
 </div>
@@ -29,10 +32,10 @@
 
 | Focus Area | Detail |
 | :--- | :--- |
-| 🚀 **What I Build** | Responsive **MERN** web apps, scalable REST APIs, and **n8n**-powered automation workflows |
-| 🌱 **Exploring** | **n8n AI Automations** and connecting LLMs to web applications |
-| 📚 **Learning** | **Next.js** and **TypeScript** |
-| 📬 **Availability** | Open to junior and internship roles |
+| **What I Build** | Responsive **MERN** web apps, scalable REST APIs, and **n8n**-powered automation workflows |
+| **Exploring** | **n8n AI Automations** and connecting LLMs to web applications |
+| **Learning** | **Next.js** and **TypeScript** |
+| **Availability** | Open to junior and internship roles |
 
 ---
 
@@ -101,6 +104,12 @@
       <img src="https://img.shields.io/badge/WhatsApp-059669?style=for-the-badge" alt="WhatsApp" />
     </a>
   </p>
+
+| Channel | Contact Detail | Direct Link |
+| :--- | :--- | :---: |
+| **LinkedIn** | `kumar-rounak-dev` | [Visit Profile](https://www.linkedin.com/in/kumar-rounak-dev/) |
+| **Email** | `kumarrounak.dev@gmail.com` | [Send Mail](mailto:kumarrounak.dev@gmail.com) |
+| **WhatsApp / Phone** | `+91 81787 82184` | [Chat on WhatsApp](https://wa.me/918178782184) |
 
 </div>
 
