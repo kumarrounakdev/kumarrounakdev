@@ -67,7 +67,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Project One** | MERN stack application with JWT auth, Cloudinary uploads, and WebSockets. | `MongoDB` `Express` `React` `Node.js` | [↗](#) |
+| **Component Vault** | Local-first React app to save, organize, edit, and live-preview reusable UI components with a Monaco editor, tags, collections, and localStorage persistence. | `React` `Vite` `Monaco` `localStorage` | [↗](https://componentvault.netlify.app/) |
 | **Project Two** | AI automation workflow built using n8n, Webhooks, and REST APIs. | `n8n` `JavaScript` `APIs` | [↗](#) |
 
 ---
@@ -76,7 +76,7 @@
 
 | Degree / Program | Institution | Duration |
 | :--- | :--- | :---: |
-| **Bachelor of Computer Applications (BCA)** | Manipal University | 2026 – 2029 *(Expected)* |
+| **Bachelor of Computer Applications (BCA)** | Manipal University Jaipur | 2026 – 2029 *(Expected)* |
 | **Full Stack Web Development Course** | Dice Academy, Delhi | Completed |
 
 ---
