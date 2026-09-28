@@ -68,7 +68,7 @@
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **Component Vault** | Local-first React app to save, organize, edit, and live-preview reusable UI components with a Monaco editor, tags, collections, and localStorage persistence. | `React` `Vite` `Monaco` `localStorage` | [↗](https://componentvault.netlify.app/) |
-| **Project Two** | AI automation workflow built using n8n, Webhooks, and REST APIs. | `n8n` `JavaScript` `APIs` | [↗](#) |
+| **Project Two** | the work of second project is in progess ... | `work` `in` `progress` | [↗](#) |
 
 ---
 
