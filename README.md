@@ -68,7 +68,7 @@
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **Component Vault** | Local-first React app to save, organize, edit, and live-preview reusable UI components with a Monaco editor, tags, collections, and localStorage persistence. | `React` `Vite` `Monaco` `localStorage` | [↗](https://componentvault.netlify.app/) |
-| **Inkheaven** | Booking website, admin dashboard and n8n backend for a tattoo studio. No database. | `work` `in` `progress` | [↗](https://github.com/kumarrounakdev/inkheaven/) |
+| **Inkheaven** | Booking website, admin dashboard and n8n backend for a tattoo studio. No database. | `React` `n8n` `Webhook` `GSAP` | [↗](https://github.com/kumarrounakdev/inkheaven/) |
 
 ---
 
