@@ -47,7 +47,7 @@
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,redux,js,html,css" alt="Frontend Tech" /> |
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Tech" /> |
-| **Automation** | <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" /> <img src="https://api.iconify.design/mdi:webhook.svg?color=%23888888&height=48" height="48" alt="Webhooks" /> |
+| **Automation** | <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />  |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" /> |
 | **Learning** | <img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Learning: Next.js and TypeScript" /> |
 
